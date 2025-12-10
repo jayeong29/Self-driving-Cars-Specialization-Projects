@@ -8,3 +8,9 @@ Execute "CarlaUE4.sh" to launch CARLA.
 For more details and running options please refer to our online documentation
 
 http://carla.readthedocs.io
+
+
+Projects of Course 1. Introduction to Self-driving Cars
+        and Course 4. Motion Planning
+
+It contains Vehicle control Simulation, Object Detection and Avoidance, Behavior Planning.
